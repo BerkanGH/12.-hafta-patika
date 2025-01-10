@@ -1,3 +1,9 @@
+Survivor 
+
+Şu an biraz eksik. Sınavlarım başladığı için son haftalarda yetiştiremedim. O yüzden daha fazla vakit kaybetmeden hızlıca yaptım. Eklemeleri yapacağım. Geç kaldığım için kusura bakmayın :/
+
+
+
 CodeFirstBasic Ve CodeRelation da npgsql kullandım. Context sınıflarında bu kod ile
 
  protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
